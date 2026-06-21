@@ -2,8 +2,9 @@
 
 ## Sobre mí
 
-Soy una **profesional junior en Administración de Sistemas (ASIR)**, vivo en **Bilbao, España**, en transición hacia el sector IT a través del **aprendizaje práctico**, la **práctica constante** y la exploración continua de **tecnologías de sistemas e infraestructura**.
-Veo la tecnología como un campo en constante evolución que requiere curiosidad, adaptabilidad y una fuerte voluntad de seguir aprendiendo. Mi objetivo es convertirme en una administradora de sistemas profesional capaz de trabajar en entornos empresariales reales.
+Soy una **administradora de sistemas junior (ASIR)**, vivo en **Bilbao, España**, y me encuentro en transición hacia el sector IT mediante la **experiencia práctica**, la **práctica constante** y la exploración continua de **tecnologías de sistemas e infraestructura**.
+
+Concibo la tecnología como un entorno en constante evolución que exige **curiosidad, adaptabilidad y una mentalidad de aprendizaje continuo**. Mi objetivo es desarrollarme como una administradora de sistemas capaz de desempeñarse en **entornos empresariales reales**, aportando criterio técnico, capacidad de análisis y resolución de problemas.
 
 Estoy especialmente interesada en entender cómo se comportan los sistemas en escenarios reales, no solo en teoría, y disfruto creando entornos donde puedo probar, romper y mejorar mis conocimientos.
 
