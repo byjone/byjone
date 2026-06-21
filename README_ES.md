@@ -2,8 +2,7 @@
 
 ## Sobre mí
 
-Soy una **estudiante de Administración de Sistemas (ASIR) con base en Bilbao, España**, actualmente construyendo mi camino hacia el sector IT a través del aprendizaje práctico, la práctica constante y la exploración continua de tecnologías de sistemas e infraestructura.
-
+Soy una **profesional junior en Administración de Sistemas (ASIR)**, vivo en **Bilbao, España**, en transición hacia el sector IT a través del **aprendizaje práctico**, la **práctica constante** y la exploración continua de **tecnologías de sistemas e infraestructura**.
 Veo la tecnología como un campo en constante evolución que requiere curiosidad, adaptabilidad y una fuerte voluntad de seguir aprendiendo. Mi objetivo es convertirme en una administradora de sistemas profesional capaz de trabajar en entornos empresariales reales.
 
 Estoy especialmente interesada en entender cómo se comportan los sistemas en escenarios reales, no solo en teoría, y disfruto creando entornos donde puedo probar, romper y mejorar mis conocimientos.
