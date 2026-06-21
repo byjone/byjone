@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am a **Systems Administration (ASIR) student based in Bilbao, Spain**, currently building my path into the IT industry through hands-on learning, practice, and continuous exploration of systems and infrastructure technologies.
+I am a **junior Systems Administrator (ASIR)**, living in **Bilbao, Spain**, currently transitioning into the IT sector through **hands-on experience**, **continuous practice**, and ongoing exploration of **systems and infrastructure technologies**.
 
-I see technology as a constantly evolving field that requires curiosity, adaptability, and a strong willingness to keep learning. My goal is to grow into a professional systems administrator capable of working in real enterprise environments.
+I see technology as a constantly evolving field that requires **curiosity, adaptability, and a continuous learning mindset**. My goal is to develop into a Systems Administrator capable of working in **real enterprise environments**, contributing technical judgment, analytical thinking, and strong problem-solving skills.
 
 I am especially interested in understanding how systems behave in real scenarios, not just in theory, and I enjoy building environments where I can test, break, and improve my knowledge.
 
